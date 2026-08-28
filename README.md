@@ -1,5 +1,5 @@
 # oceanic-bin
-<div align-item="center">
+<div align="center">
 <img width=220 src="https://github.com/NEURAL-Y/oceanic-bin/blob/main/public/logo.png"/></div>
 > A database management system with SQL-style syntax on a native BSON storage engine — built for developers who already think in relational terms but want document-model flexibility.
 
